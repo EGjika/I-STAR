@@ -101,3 +101,8 @@ The Alpha Drop Table helps you:
 ## Item Response Distributions
 The Item Response Distribution Graphs provide a visual summary of how students responded to each individual test item. Each bar in the graph represents the percentage of students who selected or scored a particular response value. These graphs help teachers quickly identify whether an item was too easy (e.g., most students scored the highest value), too difficult (e.g., most scored at the lowest), or had a balanced distribution.
 Well-performing items often show a spread of responses that distinguish between students of varying ability levels. In contrast, items where nearly all students chose the same response may not be providing useful information about student differences. These visualizations support teachers in identifying patterns, spotting unexpected response trends, and making informed decisions about item clarity, difficulty, and alignment with learning objectives.
+
+
+# 🔁 Share your Feedback
+Please share your feedback with us so we improve!
+Google Form link:[ https://docs.google.com/forms/d/e/1FAIpQLScUQXtHLYvN5TqE7Ixy0u__VHALACyFbwTiGc7hKb1IigD6IQ/viewform ](Leave Your Feedback)
