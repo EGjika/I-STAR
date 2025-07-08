@@ -15,14 +15,23 @@ By reviewing this table, teachers can spot items that may need revision or remov
 Interpreting the Item Statistics Table
 The Item Statistics Table summarizes how each test item performed and helps teachers evaluate the quality and effectiveness of individual questions. Here’s how to interpret each column:
 •	**Item_ID**: Identifies the specific test item.
+
 •	**Diff.** (Difficulty Index): Represents how difficult the item was for students. Values closer to 0 indicate harder items, while values closer to 1 indicate easier items.
+
 •	**Avg.score**: The average score students received on that item. Lower scores suggest the item was more difficult or potentially unclear.
+
 •	**SD** (Standard Deviation): Shows how much variation there was in student responses. A higher SD means more variation; a low SD may indicate most students gave similar answers.
+
 •	**Min. / Max**.: The lowest and highest scores achieved on that item.
+
 •	**Obs.min. / Obs.max**.: The number of students who got the lowest or highest possible score on the item.
+
 •	**RIT_pbis** (Point-Biserial Correlation): Indicates how well performance on the item correlates with overall test performance. Values above 0.20 are generally acceptable, and negative values suggest the item may not be functioning properly.
+
 •	**RIR_DI** (Rest-Item Correlation or Discrimination Index): Reflects how well the item differentiates between high- and low-performing students. Higher values mean better discrimination.
+
 •	**PBIS_Flag**: Flags items with low or negative point-biserial values. These items may need to be reviewed for clarity, alignment, or fairness.
+
 By reviewing this table, teachers can identify strong items that contribute positively to the test, as well as items that may need revision to better assess student understanding
 
 
