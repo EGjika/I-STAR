@@ -1,5 +1,7 @@
 ![logo_s](https://github.com/user-attachments/assets/8a9426d8-44e3-4592-9679-6a94e138d045)
 
+Shiny App Access: https://istar.shinyapps.io/ISTAR/ 
+
 # I-STAR
 I-STAR is a shiny app that may be used by educators to generate easy statistical and psychometric reports for their exams.
 
