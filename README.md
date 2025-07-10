@@ -1,5 +1,3 @@
-![logo_s](https://github.com/user-attachments/assets/8a9426d8-44e3-4592-9679-6a94e138d045)
-
 ![file_00000000f99c61f8a7f809fbdbf5f724 (2)](https://github.com/user-attachments/assets/e67fbc2f-5940-47e4-a75b-8349ec0fd37e)
 
 
