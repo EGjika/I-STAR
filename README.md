@@ -117,17 +117,21 @@ The app has a limitation (it only allows the use for at most 25 students and at 
 
 <img width="1889" height="956" alt="image" src="https://github.com/user-attachments/assets/c0a6c2ae-51ea-4f11-93b9-065eb55ca711" />
 
+<img width="1915" height="509" alt="image" src="https://github.com/user-attachments/assets/022b3605-9953-46dd-9a41-e829660ea737" />
 
-![image](https://github.com/user-attachments/assets/00df514c-7c20-4e41-b471-94a1e438a518)
+<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/c2a373ce-8f51-4e8e-bfaa-90798492d9e0" />
 
-![image](https://github.com/user-attachments/assets/ca3e165e-dafc-4767-b594-1e92b1d773a8)
+<img width="1899" height="955" alt="image" src="https://github.com/user-attachments/assets/4a1cecee-0ea3-427a-bc9b-aef46ffb1347" />
+
+<img width="1902" height="959" alt="image" src="https://github.com/user-attachments/assets/fa944c4d-e20b-404d-a4e3-868a88e8bf14" />
+
+<img width="1875" height="957" alt="image" src="https://github.com/user-attachments/assets/e8d94284-9535-4434-814a-97c9f0b4840c" />
+
 
 
 The Downloadble report (Word document to give the user access of copy-paste and modify)
 
-![image](https://github.com/user-attachments/assets/d08b0b3e-d4ab-4344-b25f-9901ea35f562)
 
-![image](https://github.com/user-attachments/assets/ccc8d478-6508-4c9d-96d0-51a05dafcf24)
 
 
 
