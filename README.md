@@ -115,15 +115,8 @@ Google Form link: https://forms.gle/3fjWT4SivSUodCwg8
 These are a few screenshot of the shiny app:
 The app has a limitation (it only allows the use for at most 25 students and at most 20 items, even if the /csv file will be larger the app will only use teh first 25x20 dimensions). A Warning message will pop up when the data exceeds the default dimensions. Another Pro version will have more options and allow more data.
 
-![image](https://github.com/user-attachments/assets/50cca3a5-c12c-487f-bb09-bffc623d8e4e)
+<img width="1889" height="956" alt="image" src="https://github.com/user-attachments/assets/c0a6c2ae-51ea-4f11-93b9-065eb55ca711" />
 
-![image](https://github.com/user-attachments/assets/d494fce5-ae8a-49cf-b45a-3690315c2feb)
-
-![image](https://github.com/user-attachments/assets/65e2033a-8aaf-47d0-94ff-f9da168ab1f4)
-
-![image](https://github.com/user-attachments/assets/35fa0099-8453-469b-82e8-d2764014bede)
-
-![image](https://github.com/user-attachments/assets/bade9344-aa6a-4939-a4fb-60e4b87484e8)
 
 ![image](https://github.com/user-attachments/assets/00df514c-7c20-4e41-b471-94a1e438a518)
 
