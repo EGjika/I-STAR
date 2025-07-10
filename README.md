@@ -135,12 +135,19 @@ The Downloadble report (Word document to give the user access of copy-paste and 
 The development of the I-STAR Shiny application and related data analysis was supported by a range of powerful R libraries. These include:
 
 ggplot2, dplyr, tidyr, and plotly for data visualization and manipulation;
+
 psych, ShinyItemAnalysis, mirt, ltm, and difNLR for psychometric modeling and item analysis;
+
 shiny, shinydashboard, and bslib for building interactive and styled web applications;
+
 factoextra, ggdendro, and dendextend for clustering and multivariate analysis;
+
 and additional support from tinytex and float for rendering reports and efficient numeric computation.
 
 These libraries made it possible to design an accessible, robust, and interactive tool for exploring assessment data.
+
+# 🤖 AI assistance disclaimer.
+AI tools were used in the preparation of this post to assist with content generation and refinement.
 
 
 
