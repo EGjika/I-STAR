@@ -131,7 +131,7 @@ The app has a limitation (it only allows the use for at most 25 students and at 
 
 The Downloadble report (Word document to give the user access of copy-paste and modify)
 
-📚 Packages Used
+# 📚 Packages Used
 The development of the I-STAR Shiny application and related data analysis was supported by a range of powerful R libraries. These include:
 
 ggplot2, dplyr, tidyr, and plotly for data visualization and manipulation;
